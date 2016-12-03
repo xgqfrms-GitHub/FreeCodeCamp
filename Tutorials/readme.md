@@ -1,4 +1,4 @@
-# FreeCodeCamp codes for 
+# FreeCodeCamp codes for JavaScript
 
 https://www.freecodecamp.com/
 
