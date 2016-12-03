@@ -1,0 +1,215 @@
+[
+	{
+		"section": "Desktop / Systems Programming", 
+		"courses": [
+			{
+				"title": "Learn C++ For Beginners",
+				"link": "https://www.udemy.com/free-learn-c-tutorial-beginners/"
+			},
+			{
+				"title": "Crash Course Into JavaFX: The Best Way To Make GUI Apps",
+				"link": "https://www.udemy.com/crash-course-into-javafx-the-best-way-to-make-gui-apps/"
+			},
+			{
+				"title": "Decoding AP Computer Science",
+				"link": "https://www.udemy.com/decoding-ap-computer-science-a/"
+			},
+			{
+				"title": "Windows 10 For Absolute Beginners",
+				"link": "https://www.udemy.com/windows-10-for-absolute-beginners/"
+			},
+			{
+				"title": "Java For Noobs: Go From Noob To Semi-Noob",
+				"link": "https://www.udemy.com/java-for-noobs-go-from-noob-to-semi-noob-noob-coder/"
+			}
+		]
+	},
+	{
+		"section": "Mobile Programming",
+		"courses": [ 
+			{
+				"title": "Android Development From Scratch",
+				"link": "https://www.udemy.com/become-an-android-developer-from-scratch/"
+			},
+			{
+				"title": "Core Data Maps Media Swift App Developer",
+				"link": "https://www.udemy.com/core-data-maps-media-swift-app-developer/"
+			},
+			{
+				"title": "The Complete Apple Watch Course: Make Real Apps From Scratch",
+				"link": "https://www.udemy.com/the-complete-apple-watch-course-make-real-apps-from-scratch/"
+			},
+			{
+				"title": "The Art Of Real IOS Programming",
+				"link": "https://www.udemy.com/the-art-of-real-ios-programming/"
+			},
+			{
+				"title": "Learn Ionic Framework: Build A Stock Market Mobile App",
+				"link": "https://www.udemy.com/learn-ionic-framework-build-a-stock-market-mobile-app/"
+			}
+		]
+	},
+	{
+		"section":"Web Design / Development",
+		"courses": [ 
+			{
+				"title": "Learn HTML5 Programming From Scratch",
+				"link": "https://www.udemy.com/learn-html5-programming-from-scratch/"
+			},
+			{
+				"title": "Learn Object Oriented PHP By Building A Complete Website",
+				"link": "https://www.udemy.com/learn-object-oriented-php-by-building-a-complete-website/"
+			},
+			{
+				"title": "Ecommerce Website In PHP/MySQLi",
+				"link": "https://www.udemy.com/ecommerce-website-in-php-mysqli/"
+			},
+			{
+				"title": "PHP/MySQL Tutorial",
+				"link": "https://www.udemy.com/php-mysql-tutorial/"
+			},
+			{
+				"title": "Learn Ruby On Reals From Scratch",
+				"link": "https://www.udemy.com/learn-ruby-on-rails-from-scratch/learn/v4/overview"
+			},
+			{
+				"title": "ASP.NET MVC Quick Start",
+				"link": "https://www.udemy.com/aspnet-mvc-quick-start/"
+			},
+			{
+				"title": "Single Page Layout With Bootstrap",
+				"link": "https://www.udemy.com/single-page-layout-with-bootstrap/"
+			},
+			{
+				"title": "Wordpress 101",
+				"link": "https://www.udemy.com/wordpress-101/"
+			},
+			{
+				"title": "Javascript Essentials",
+				"link": "https://www.udemy.com/javascript-essentials/"
+			}
+		]
+	},
+	{
+		"section": "NoSQL / SQL",
+		"courses": [
+			{
+				"title": "Database Design",
+				"link": "https://www.udemy.com/database-design/"
+			},
+			{
+				"title": "Marklogic Fundamentals",
+				"link": "https://www.udemy.com/marklogic-fundamentals/"
+			},
+			{
+				"title": "Semantics",
+				"link": "https://www.udemy.com/semantics/"
+			},
+			{
+				"title": "Marklogic NoSQL xQuery",
+				"link": "https://www.udemy.com/marklogic-nosql-xquery/"
+			}
+		]
+	},
+	{
+		"section": "Data",
+		"courses": [
+			{
+				"title": "Hadoop Starter Kit",
+				"link": "https://www.udemy.com/hadoopstarterkit/"
+			},
+			{
+				"title": "R Basics",
+				"link": "https://www.udemy.com/r-basics/"
+			},
+			{
+				"title": "Set Up Big Data Development Environment",
+				"link": "https://www.udemy.com/setup-big-data-development-environment/"
+			},
+			{
+				"title": "Big Data Internship Program Part 1 - Foundation",
+				"link": "https://www.udemy.com/big-data-internship-program-part-1-foundation/"
+			}
+		]
+	},
+	{
+		"section": "DevOps, Testing, Automation (aka Misc)",
+		"courses": [
+			{
+				"title": "Burp Suite", 
+				"link": "https://www.udemy.com/burp-suite/"
+			},
+			{
+				"title": "Linux Command Line Vol1", 
+				"link": "https://www.udemy.com/linux-command-line-volume1/"
+			},
+			{
+				"title": "Selenium Training", 
+				"link": "https://www.udemy.com/selenium-training/"
+			}
+		]
+	},
+	{
+		"section": "Networking",
+		"courses":[ 
+			{
+				"title": "New CCNAX 200-120", 
+				"link": "https://www.udemy.com/newccnax-200-120/"
+			},
+			{
+				"title": "Network Engineer Taster Courses", 
+				"link": "https://www.udemy.com/network-engineer-taster-courses/"
+			},
+			{
+				"title": "Cisco CCNA: Getting Started", 
+				"link": "https://www.udemy.com/cisco-ccna-getting-started/"
+			},
+			{
+				"title": "CCNP Route", 
+				"link": "https://www.udemy.com/ccnproute/"
+			}
+		]
+	},
+	{
+		"section": "Design / Office",
+		"courses":[
+			{
+				"title": "Living Logos: Animation Simple After Effects", 
+				"link": "https://www.udemy.com/living-logos-animation-simple-after-effects/"
+			},
+			{
+				"title": "Learn Adobe Photoshop From Scratch", 
+				"link": "https://www.udemy.com/learn-adobe-photoshop-from-scratch/"
+			},
+			{
+				"title": "Professional Logo Design Crash Course", 
+				"link": "https://www.udemy.com/professional-logo-design-crash-course/"
+			},
+			{
+				"title": "Useful Excel For Beginners", 
+				"link": "https://www.udemy.com/useful-excel-for-beginners/"
+			},
+			{
+				"title": "Ioniya AutoCAD 2010", 
+				"link": "https://www.udemy.com/ioniya-autocad-2010/"
+			},
+			{
+				"title": "Become An Adobe Edge Animate Ninja: Everything From A-Z", 
+				"link": "https://www.udemy.com/become-an-adobe-edge-animate-ninja-everything-from-a-z/"
+			}
+		]
+	},
+	{
+		"section": "Games",
+		"courses": [
+			{
+				"title": "Create A 2D Game In Unity", 
+				"link": "https://www.udemy.com/create-a-2d-game-in-unity/"
+			},
+			{
+				"title": "Unity3D Concepts", 
+				"link": "https://www.udemy.com/unity3d-concepts/"
+			}
+		]
+	}
+]
