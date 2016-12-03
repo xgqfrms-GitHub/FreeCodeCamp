@@ -1,6 +1,5 @@
 # The Best of Udemy Free
 
-# The Best of Udemy Free
 Frustrated by only being able to snag a couple of courses for Udemy's Black Friday 2016 sale, and even more by the hodgepodge of 45 minute courses in the free channel, I prepared the following listing of courses that are currently free on Udemy and are atleast 6+ Hours long (with an exception to a few that are shorter but for smaller niche topics). 
 
 ## Desktop / Systems Programming
